@@ -1,0 +1,98 @@
+/***********TAG SELECTORS****************/
+
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    font-family: 'Ephesis', cursive;
+    font-size: 30px;
+    line-height: 2;
+}
+/***********CLASS SELECTORS**************/
+
+.toppdiv {
+    background-color: bisque;
+    height: 1000px;
+    margin-bottom: 0;
+}
+.abdiv {
+  background-color: bisque;
+  height: 1000px;
+  margin-bottom: 0%;
+}
+.udiv {
+  background-color: bisque;
+  height: 1000px;
+  margin-bottom: 0%;
+}
+.tekstområde {
+  width: 596px;
+    height: 358px;
+}
+
+.kdiv {
+  background-color: bisque;
+  height: 950px;
+  margin-bottom: 0%;
+}
+.navbar {
+    
+    background-color: burlywood;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+}
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar a:hover {
+  background-color: #ECAC5D;
+  color: black;
+}
+.navbar a.aktiv {
+  background-color: #C36A2D;
+  color: white;
+
+}
+
+.nederstdiv {
+    background-color: burlywood;
+    height: 80px;
+    margin-top: 0;
+}
+
+.info {
+    font-size: large;
+}
+.mubaarak {
+    margin-top: 200px;
+    height: 400px;
+    width: 400px;
+
+}
+.copyright {
+    margin: 0;
+    line-height: 0;
+}
+.basket {
+  width: 25%;
+  float: left;
+  padding-right: 20px;
+}
+.fotball {
+  width: 25%;
+  float: right;
+  padding-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
